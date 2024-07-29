@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorGame</string>
+    <string-array name="ball_colors">
+        <item>Bright Orange</item>
+        <item>Lime Green</item>
+        <item>Hot Pink</item>
+        <item>Vivid Purple</item>
+    </string-array>
+
+</resources>

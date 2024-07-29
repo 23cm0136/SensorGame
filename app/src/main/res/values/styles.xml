@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerTextStyle">
+        <item name="android:fontFamily">sans-serif-medium</item> <!-- 字体族，可以根据需要修改 -->
+        <item name="android:textSize">20sp</item> <!-- 文字大小 -->
+        <item name="android:textColor">@color/purple_500</item> <!-- 文字颜色 -->
+    </style>
+</resources>
