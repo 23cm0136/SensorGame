@@ -1,7 +1,7 @@
 # SensorGame
 
 - [日本語](README.md)
-- [中文](README_ch.md)
+- [中文](README_cn.md)
 
 ## Overview
 
