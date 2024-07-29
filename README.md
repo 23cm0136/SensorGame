@@ -1,5 +1,7 @@
 # SensorGame
 
+- [English](README_en.md)
+- [中文](README_cn.md)
 
 | 主画面 | クリア画面 |
 |--------|-----------|
@@ -9,10 +11,6 @@
 |------------------------|------------|
 | <img src="./images/Normal.png" width="250"> | <img src="./images/Random.png" width="250"> |
 
-<!--![主画面](./images/Main.png)-->
-<!--![普通モード](./images/Normal.png)-->
-<!--![ランダム生成迷路モード](./images/Random.png)-->
-<!--![完成画面](./images/Pass.png)-->
 
 ## 概要
 
