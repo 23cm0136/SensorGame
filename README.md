@@ -1,9 +1,18 @@
 # SensorGame
 
-![主画面](./images/Main.png)
-![普通モード](./images/Normal.png)
-![ランダム生成迷路モード](./images/Random.png)
-![完成画面](./images/Pass.png)
+
+| 主画面 | クリア画面 |
+|--------|-----------|
+| <img src="./images/Main.png" width="250"> | <img src="./images/Pass.png" width="250"> |
+
+| 普通モード | ランダム生成迷路モード |
+|------------------------|------------|
+| <img src="./images/Normal.png" width="250"> | <img src="./images/Random.png" width="250"> |
+
+<!--![主画面](./images/Main.png)-->
+<!--![普通モード](./images/Normal.png)-->
+<!--![ランダム生成迷路モード](./images/Random.png)-->
+<!--![完成画面](./images/Pass.png)-->
 
 ## 概要
 
